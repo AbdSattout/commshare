@@ -51,7 +51,7 @@ const config = {
         'accordion-up': 'accordion-up 0.2s ease-out',
       },
       borderRadius: {
-        lg: 'var(--radius)',
+        DEFAULT: 'var(--radius)',
         md: 'calc(var(--radius) - 2px)',
         sm: 'calc(var(--radius) - 4px)',
       },
